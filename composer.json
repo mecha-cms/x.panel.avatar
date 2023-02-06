@@ -1,0 +1,10 @@
+{
+  "description": "Replaces image field on the page editor with avatar field.",
+  "license": "GPL-3.0-or-later",
+  "name": "mecha-cms/x.panel.avatar",
+  "require": {
+    "mecha-cms/x.avatar": "^1.0.0",
+    "mecha-cms/x.panel": "^3.0.0",
+    "mecha-cms/x.panel.image": "^2.0.0"
+  }
+}
