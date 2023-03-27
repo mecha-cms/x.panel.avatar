@@ -6,11 +6,6 @@ color: '#84336f'
 author: Taufik Nurrohman
 type: Markdown
 version: 1.0.0
-
-use:
-  '.\lot\x\avatar': 1
-  '.\lot\x\panel': 1
-  '.\lot\x\panel.image': 1
 ...
 
 This extension replaces the `image` field into an `avatar` field when you are in the comment or user page editor so that
